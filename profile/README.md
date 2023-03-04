@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://i.imgur.com/9wAugAO.png" alt="Bitaiir Logo" width="200"/>
+<br/>
+Bitaiir Project
+</h1>
+
+<div align="center">
+<h3>
+Official GitHub of the Bitaiir protocol.
+</h3>
+
+----
+
+Visit [bitaiir.org](https://bitaiir.org) to learn more!
+
 
 <!--
 
