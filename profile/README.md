@@ -1,13 +1,7 @@
-<h1 align="center">
 <img src="https://i.imgur.com/VPYXNKQ.png" alt="Bitaiir Logo" />
-</h1>
 
 <div align="center">
-<h1>
-BITAIIR PROTOCOL
-</h1>
-
-----
+<h1>BITAIIR PROTOCOL</h1>
 
 Visit [bitaiir.org](https://bitaiir.org) to learn more!
 
