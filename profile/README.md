@@ -1,13 +1,11 @@
 <h1 align="center">
-<img src="https://i.imgur.com/9wAugAO.png" alt="Bitaiir Logo" width="200"/>
-<br/>
-Bitaiir Project
+<img src="https://i.imgur.com/VPYXNKQ.png" alt="Bitaiir Logo" />
 </h1>
 
 <div align="center">
-<h3>
-Official GitHub of the Bitaiir protocol.
-</h3>
+<h1>
+BITAIIR PROTOCOL
+</h1>
 
 ----
 
