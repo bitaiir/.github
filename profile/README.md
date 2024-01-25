@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/VPYXNKQ.png" alt="Bitaiir Logo" />
+<!-- <img src="https://i.imgur.com/VPYXNKQ.png" alt="Bitaiir Logo" /> -->
 
 <div align="center">
 <h1>BITAIIR PROTOCOL</h1>
